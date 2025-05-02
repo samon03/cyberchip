@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cyberchip/static/css/main.63e4b146.css",
+    "main.js": "/cyberchip/static/js/main.9737bf7b.js",
+    "static/js/453.07663bfd.chunk.js": "/cyberchip/static/js/453.07663bfd.chunk.js",
+    "static/media/computer.png": "/cyberchip/static/media/computer.23205864b323f105833d.png",
+    "static/media/4988.png_860-removebg-preview.png": "/cyberchip/static/media/4988.png_860-removebg-preview.0f7001ada0d12040df7c.png",
+    "static/media/cisco.png": "/cyberchip/static/media/cisco.5d5ce17d595d618653cf.png",
+    "static/media/X_logo_2023_(white).png": "/cyberchip/static/media/X_logo_2023_(white).ab1bf298218684bb5b1e.png",
+    "static/media/the.png": "/cyberchip/static/media/the.a6ccdf3d9a0dd2a9f629.png",
+    "static/media/hotel.png": "/cyberchip/static/media/hotel.f3ff48915b75707ba36b.png",
+    "static/media/apex.png": "/cyberchip/static/media/apex.61303a89c0acecc50795.png",
+    "static/media/undraw_two-factor.png": "/cyberchip/static/media/undraw_two-factor.2b2e997eb283aab4848a.png",
+    "index.html": "/cyberchip/index.html",
+    "main.63e4b146.css.map": "/cyberchip/static/css/main.63e4b146.css.map",
+    "main.9737bf7b.js.map": "/cyberchip/static/js/main.9737bf7b.js.map",
+    "453.07663bfd.chunk.js.map": "/cyberchip/static/js/453.07663bfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e4b146.css",
+    "static/js/main.9737bf7b.js"
+  ]
+}
